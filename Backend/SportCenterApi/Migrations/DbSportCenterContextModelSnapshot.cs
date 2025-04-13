@@ -269,7 +269,7 @@ namespace SportCenterApi.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("BmiDataEntity");
+                    b.ToTable("BmiDataEntity", (string)null);
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>

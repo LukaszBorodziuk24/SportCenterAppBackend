@@ -32,5 +32,10 @@ namespace SportCenterApi.Services
 
             return result;
         }
+
+        //public async Task<IdentityResult> DeleteUser(RegisterDto model)
+        //{
+
+        //}
     }
 }

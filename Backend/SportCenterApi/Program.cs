@@ -41,7 +41,7 @@ builder.Services.AddIdentityCore<AppUser>()
     .AddApiEndpoints();
 
 builder.Services.AddDbContext<DbSportCenterContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("SportCenter")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddAuthorization();
 
@@ -77,6 +77,13 @@ builder.Services.AddCors(options =>
 
 
 var app = builder.Build();
+
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    var userManager = services.GetRequiredService<UserManager<AppUser>>();
+    await SeedAppUser.SeedAsync(userManager, 10000);
+}
 
 
 app.UseCors("AllowAll");

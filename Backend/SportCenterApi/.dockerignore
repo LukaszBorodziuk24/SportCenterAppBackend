@@ -1,0 +1,4 @@
+**/*.csproj
+!SportCenterApi.csproj
+**/bin/
+**/obj/

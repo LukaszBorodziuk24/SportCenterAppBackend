@@ -34,14 +34,19 @@ namespace SportCenterApi.Services
 
             if (!string.IsNullOrEmpty(filterDto.FilterBy))
             {
-                query = query
-                    .Where(user => user.Name.Contains(filterDto.FilterBy)  || 
-                    user.LastName.Contains(filterDto.FilterBy) || 
-                    user.City.Contains(filterDto.FilterBy) ||
-                    user.Country.Contains(filterDto.FilterBy));
+                //using full text search
+                query = query.Where(user => EF.Functions.Like(user.Name, filterDto.FilterBy) ||
+                             EF.Functions.Like(user.LastName, filterDto.FilterBy) ||
+                             EF.Functions.Like(user.City, filterDto.FilterBy) ||
+                             EF.Functions.Like(user.Country, filterDto.FilterBy));
+
+
             }
 
-            query = ApplySorting(query, sortDto.SortBy, sortDto.IsAscending);
+            if (!string.IsNullOrEmpty(sortDto.SortBy))
+            {
+                query = ApplySorting(query, sortDto.SortBy, sortDto.IsAscending);
+            }
 
             var result = await query
                 .Skip((paginationDto.PageNumber - 1) * paginationDto.PageSize)
