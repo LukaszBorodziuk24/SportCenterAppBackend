@@ -3,52 +3,124 @@
   "WorkspaceRootPath": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\docker-compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:docker-compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\seeders\\seedappuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:seeders\\seedappuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\controllers\\bmicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:controllers\\bmicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\sportcenterapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:sportcenterapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\services\\trainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:services\\trainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\seeders\\seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:seeders\\seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\models\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:models\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\services\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:services\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\seeders\\seedappuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:seeders\\seedappuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\docker-compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:docker-compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\services\\interfaces\\itrainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:services\\interfaces\\itrainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\services\\interfaces\\ibmiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:services\\interfaces\\ibmiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\models\\paginationparamsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:models\\paginationparamsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\models\\gettrainersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:models\\gettrainersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\models\\filterparamsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:models\\filterparamsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\models\\bmiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:models\\bmiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\models\\bmicalcdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:models\\bmicalcdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\controllers\\bmicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:controllers\\bmicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\services\\bmiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:services\\bmiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\sportcenterapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:sportcenterapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\entities\\bmidata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,36 +131,16 @@
       "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:sportcenterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\sportcenterapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:sportcenterapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\services\\bmiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:services\\bmiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\filters\\hideendpointsdocumentfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:filters\\hideendpointsdocumentfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\migrations\\dbsportcentercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:migrations\\dbsportcentercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|c:\\users\\pwdlp\\onedrive\\dokumenty\\github\\sportcenterappbackend\\backend\\sportcenterapi\\models\\gettrainersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FEE1675-2B68-487B-A099-88E01BE6CBA2}|SportCenterApi.csproj|solutionrelative:models\\gettrainersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,7 +150,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,7 +162,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:53:11.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Entities\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:35:37.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "TrainerController.cs",
               "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Controllers\\TrainerController.cs",
               "RelativeDocumentMoniker": "Controllers\\TrainerController.cs",
@@ -123,15 +201,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "docker-compose.yaml",
-              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\docker-compose.yaml",
-              "RelativeDocumentMoniker": "docker-compose.yaml",
-              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\docker-compose.yaml",
-              "RelativeToolTip": "docker-compose.yaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-04-12T13:34:18.171Z",
+              "DocumentIndex": 6,
+              "Title": "TrainerService.cs",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Services\\TrainerService.cs",
+              "RelativeDocumentMoniker": "Services\\TrainerService.cs",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Services\\TrainerService.cs",
+              "RelativeToolTip": "Services\\TrainerService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:26:57.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAArwC0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:52:53.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T13:22:51.606Z",
               "EditorCaption": ""
             },
             {
@@ -142,53 +246,40 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T13:34:38.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-12T13:08:06.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-30T13:22:51.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BmiController.cs",
-              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Controllers\\BmiController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BmiController.cs",
-              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Controllers\\BmiController.cs",
-              "RelativeToolTip": "Controllers\\BmiController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAArAAAA",
+              "DocumentIndex": 12,
+              "Title": "SeedRoles.cs",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Seeders\\SeedRoles.cs",
+              "RelativeDocumentMoniker": "Seeders\\SeedRoles.cs",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Seeders\\SeedRoles.cs",
+              "RelativeToolTip": "Seeders\\SeedRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T15:46:44.2Z",
+              "WhenOpened": "2025-04-17T21:08:35.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:18:54.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -200,134 +291,190 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA2wC4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:02:54.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "SeedAppUser.cs",
               "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Seeders\\SeedAppUser.cs",
               "RelativeDocumentMoniker": "Seeders\\SeedAppUser.cs",
               "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Seeders\\SeedAppUser.cs",
               "RelativeToolTip": "Seeders\\SeedAppUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T13:37:27.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": ".dockerignore",
-              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\.dockerignore",
-              "RelativeDocumentMoniker": ".dockerignore",
-              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\.dockerignore",
-              "RelativeToolTip": ".dockerignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-13T11:03:04.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SportCenterApi.http",
-              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\SportCenterApi.http",
-              "RelativeDocumentMoniker": "SportCenterApi.http",
-              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\SportCenterApi.http",
-              "RelativeToolTip": "SportCenterApi.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-12-27T19:05:37.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TrainerService.cs",
-              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Services\\TrainerService.cs",
-              "RelativeDocumentMoniker": "Services\\TrainerService.cs",
-              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Services\\TrainerService.cs",
-              "RelativeToolTip": "Services\\TrainerService.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCgAAABSAAAA",
+              "DocumentIndex": 5,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Models\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Models\\RegisterDto.cs",
+              "RelativeToolTip": "Models\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T14:26:57.362Z",
+              "WhenOpened": "2025-04-17T17:50:30.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Entities\\AppUser.cs",
-              "RelativeDocumentMoniker": "Entities\\AppUser.cs",
-              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Entities\\AppUser.cs",
-              "RelativeToolTip": "Entities\\AppUser.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAmwAkAAAAAAAAA",
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T13:35:37.745Z",
+              "WhenOpened": "2025-04-17T17:32:16.895Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BmiData.cs",
-              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Entities\\BmiData.cs",
-              "RelativeDocumentMoniker": "Entities\\BmiData.cs",
-              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Entities\\BmiData.cs",
-              "RelativeToolTip": "Entities\\BmiData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T13:49:50.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SportCenterDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\SportCenterDbContext.cs",
-              "RelativeDocumentMoniker": "SportCenterDbContext.cs",
-              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\SportCenterDbContext.cs",
-              "RelativeToolTip": "SportCenterDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T08:20:09.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BmiService.cs",
-              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Services\\BmiService.cs",
-              "RelativeDocumentMoniker": "Services\\BmiService.cs",
-              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Services\\BmiService.cs",
-              "RelativeToolTip": "Services\\BmiService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T11:02:23.239Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "SportCenterApi.csproj",
-              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\SportCenterApi.csproj",
-              "RelativeDocumentMoniker": "SportCenterApi.csproj",
-              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\SportCenterApi.csproj",
-              "RelativeToolTip": "SportCenterApi.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-30T13:38:21.831Z"
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Services\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Services\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:19:16.342Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Models\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Models\\LoginDto.cs",
+              "RelativeToolTip": "Models\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:45:48.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Models\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "Models\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Models\\AuthResponseDto.cs",
+              "RelativeToolTip": "Models\\AuthResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:58:25.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "docker-compose.yaml",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\docker-compose.yaml",
+              "RelativeDocumentMoniker": "docker-compose.yaml",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\docker-compose.yaml",
+              "RelativeToolTip": "docker-compose.yaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-12T13:34:18.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaginationParamsDto.cs",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Models\\PaginationParamsDto.cs",
+              "RelativeDocumentMoniker": "Models\\PaginationParamsDto.cs",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Models\\PaginationParamsDto.cs",
+              "RelativeToolTip": "Models\\PaginationParamsDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:52:53.595Z"
+              "WhenOpened": "2025-04-17T17:51:00.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBmiService.cs",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Services\\Interfaces\\IBmiService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IBmiService.cs",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Services\\Interfaces\\IBmiService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IBmiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:20:44.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITrainerService.cs",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Services\\Interfaces\\ITrainerService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ITrainerService.cs",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Services\\Interfaces\\ITrainerService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ITrainerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:34:13.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FilterParamsDto.cs",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Models\\FilterParamsDto.cs",
+              "RelativeDocumentMoniker": "Models\\FilterParamsDto.cs",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Models\\FilterParamsDto.cs",
+              "RelativeToolTip": "Models\\FilterParamsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:50:55.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BmiResult.cs",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Models\\BmiResult.cs",
+              "RelativeDocumentMoniker": "Models\\BmiResult.cs",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Models\\BmiResult.cs",
+              "RelativeToolTip": "Models\\BmiResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:50:54.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BmiCalcDto.cs",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Models\\BmiCalcDto.cs",
+              "RelativeDocumentMoniker": "Models\\BmiCalcDto.cs",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Models\\BmiCalcDto.cs",
+              "RelativeToolTip": "Models\\BmiCalcDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:50:52.035Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -339,11 +486,110 @@
               "RelativeToolTip": "Models\\GetTrainersDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T19:30:45.58Z"
+              "WhenOpened": "2024-11-30T19:30:45.58Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
+              "Title": "BmiService.cs",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Services\\BmiService.cs",
+              "RelativeDocumentMoniker": "Services\\BmiService.cs",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Services\\BmiService.cs",
+              "RelativeToolTip": "Services\\BmiService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowFcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:02:23.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BmiController.cs",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Controllers\\BmiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BmiController.cs",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Controllers\\BmiController.cs",
+              "RelativeToolTip": "Controllers\\BmiController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:46:44.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-12T13:08:06.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-13T11:03:04.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SportCenterApi.http",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\SportCenterApi.http",
+              "RelativeDocumentMoniker": "SportCenterApi.http",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\SportCenterApi.http",
+              "RelativeToolTip": "SportCenterApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-27T19:05:37.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BmiData.cs",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Entities\\BmiData.cs",
+              "RelativeDocumentMoniker": "Entities\\BmiData.cs",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Entities\\BmiData.cs",
+              "RelativeToolTip": "Entities\\BmiData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:49:50.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SportCenterDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\SportCenterDbContext.cs",
+              "RelativeDocumentMoniker": "SportCenterDbContext.cs",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\SportCenterDbContext.cs",
+              "RelativeToolTip": "SportCenterDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:20:09.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SportCenterApi.csproj",
+              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\SportCenterApi.csproj",
+              "RelativeDocumentMoniker": "SportCenterApi.csproj",
+              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\SportCenterApi.csproj",
+              "RelativeToolTip": "SportCenterApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T13:38:21.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "HideEndpointsDocumentFilter.cs",
               "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Filters\\HideEndpointsDocumentFilter.cs",
               "RelativeDocumentMoniker": "Filters\\HideEndpointsDocumentFilter.cs",
@@ -355,19 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Mapping\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Mapping\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "Mapping\\MappingProfile.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T13:53:11.919Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 34,
               "Title": "DbSportCenterContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Migrations\\DbSportCenterContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\DbSportCenterContextModelSnapshot.cs",
@@ -376,18 +610,6 @@
               "ViewState": "AQIAAEsBAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T21:58:02.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\pwdlp\\OneDrive\\Dokumenty\\GitHub\\SportCenterAppBackend\\Backend\\SportCenterApi\\Services\\UserService.cs",
-              "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAIAxwCYAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T20:02:54.51Z"
             }
           ]
         }

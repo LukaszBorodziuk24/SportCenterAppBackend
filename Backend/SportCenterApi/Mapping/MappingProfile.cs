@@ -25,6 +25,9 @@ namespace SportCenterApi.Mapping
                 .ForMember(dest => dest.DeclaredGender, opt => opt.MapFrom(src => src.DeclaredGender))
                 .ForMember(dest => dest.BmiResult, opt => opt.MapFrom(src => src.BmiResult));
 
+            CreateMap<RegisterDto, AppUser>()
+                .ForMember(dest => dest.PasswordHash, opt => opt.Ignore())
+                .ForMember(dest => dest.UserName, opt => opt.MapFrom(src => src.Email));
 
 
         }

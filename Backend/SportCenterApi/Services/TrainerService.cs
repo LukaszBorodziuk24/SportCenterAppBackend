@@ -34,7 +34,6 @@ namespace SportCenterApi.Services
 
             if (!string.IsNullOrEmpty(filterDto.FilterBy))
             {
-                //using full text search
                 query = query.Where(user => EF.Functions.Like(user.Name, filterDto.FilterBy) ||
                              EF.Functions.Like(user.LastName, filterDto.FilterBy) ||
                              EF.Functions.Like(user.City, filterDto.FilterBy) ||

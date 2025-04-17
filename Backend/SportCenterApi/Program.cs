@@ -4,7 +4,6 @@ using SportCenterApi;
 using SportCenterApi.Services.Interfaces;
 using SportCenterApi.Services;
 using Microsoft.AspNetCore.Routing;
-using SportCenterApi.Middleware;
 using SportCenterApi.Filters;
 using Microsoft.OpenApi.Models;
 using Newtonsoft.Json;
@@ -12,6 +11,7 @@ using Newtonsoft.Json.Serialization;
 using SportCenterApi.Mapping;
 using AutoMapper;
 using SportCenterApi.Entities;
+using SportCenterApi.Seeders;
 
 
 
@@ -36,21 +36,20 @@ builder.Services.AddSwaggerGen(c =>
 
 
 
-builder.Services.AddIdentityCore<AppUser>()
+builder.Services.AddIdentity<AppUser, IdentityRole>()
     .AddEntityFrameworkStores<DbSportCenterContext>()
-    .AddApiEndpoints();
+    .AddDefaultTokenProviders();
 
 builder.Services.AddDbContext<DbSportCenterContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddAuthorization();
 
-builder.Services.AddIdentityApiEndpoints<AppUser>()
-    .AddEntityFrameworkStores<DbSportCenterContext>();
-
-builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<ITrainerService, TrainerService>();
 builder.Services.AddScoped<IBmiService, BmiService>();
+builder.Services.AddScoped<ITokenService, TokenService>();
+
 
 builder.Services.AddAutoMapper(typeof(MappingProfile));
 
@@ -58,8 +57,6 @@ builder.Services.AddAutoMapper(typeof(MappingProfile));
 builder.Logging.ClearProviders();
 builder.Logging.AddConsole();
 builder.Logging.AddDebug();
-
-
 
 
 builder.Services.AddCors(options =>
@@ -74,23 +71,19 @@ builder.Services.AddCors(options =>
 });
 
 
-
-
 var app = builder.Build();
 
 using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;
-    var userManager = services.GetRequiredService<UserManager<AppUser>>();
-    await SeedAppUser.SeedAsync(userManager, 10000);
+    await SeedAppUser.SeedAsync(services, 100);
+    await SeedRoles.SeedAsync(services);
 }
 
 
 app.UseCors("AllowAll");
 
 app.UseHttpsRedirection();
-
-app.UseMiddleware<BlockEndpointMiddleware>();
 
 app.UseAuthentication();
 
@@ -102,8 +95,6 @@ app.UseSwaggerUI(c =>
 {
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "SportCenter Api");
 });
-
-app.MapIdentityApi<AppUser>();
 
 app.MapControllers();
 

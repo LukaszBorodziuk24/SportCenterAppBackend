@@ -6,17 +6,18 @@ namespace SportCenterApi.Models
     {
 
         [Required]
-        public string? Name { get; set; }
+        public string Name { get; set; } = string.Empty;
 
         [Required]
-        public string? LastName { get; set; }
+        public string LastName { get; set; } = string.Empty;
 
         [Required]
-        public string? Email { get; set; }
+        [EmailAddress]
+        public string Email { get; set; } = string.Empty;
 
         [Required]
-        public string? Password { get; set; }
-        
+        public string Password { get; set; } = string.Empty;
+
 
     }
 }

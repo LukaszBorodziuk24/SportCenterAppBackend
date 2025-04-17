@@ -5,11 +5,13 @@ using System.Net;
 using Faker;
 using Microsoft.AspNetCore.Identity;
 
+namespace SportCenterApi.Seeders;
 public static class SeedAppUser
 {
     private static readonly string DefaultPassword = "P@ssw0rd123";
-    public static async Task SeedAsync(UserManager<AppUser> userManager, int recordsCount)
+    public static async Task SeedAsync(IServiceProvider serviceProvider, int recordsCount)
     {
+        var userManager = serviceProvider.GetRequiredService<UserManager<AppUser>>();
         if (!userManager.Users.Any())
         {
             var users = new List<AppUser>();
